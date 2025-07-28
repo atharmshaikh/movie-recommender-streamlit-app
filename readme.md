@@ -57,7 +57,7 @@ A modern and fully optimized **Streamlit web application** that recommends movie
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/atharmshaikh/movie-recommender-streamlit-app.git
 cd movie-recommender-streamlit-app
 ```
 
