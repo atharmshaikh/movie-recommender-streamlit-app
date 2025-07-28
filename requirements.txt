@@ -1,0 +1,6 @@
+numpy
+Pandas
+Scikit-learn
+Streamlit
+FuzzyWuzzy
+Scipy
